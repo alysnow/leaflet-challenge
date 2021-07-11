@@ -58,7 +58,7 @@ Leaflet
 |-|-|-|
 |1|USGS GeoJSON Feed|http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php|
 |2|index.html|https://github.com/alysnow/leaflet-challenge/blob/main/index.html|
-|3|logic.js|https://github.com/alysnow/leaflet-challenge/static/js/logic.js|
+|3|logic.js|https://github.com/alysnow/leaflet-challenge/blob/main/static/js/logic.js|
 
 
 ## Level 1: Basic Visualization
