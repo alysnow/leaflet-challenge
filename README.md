@@ -50,6 +50,12 @@ Leaflet
 * integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
 * crossorigin=""></script>
 
+API KEY
+* Create a config.js file and save in the static/js directory containing the below Variable and  API Key attained from https://www.mapbox.com/
+
+// API key
+const API_KEY = "ENTER YOUR CODE HERE";
+
 ```
 
 ## Datasets 
@@ -99,11 +105,6 @@ Leaflet
 ### Earthquake Sattelite Map Popups
 
 ![popupssattelite](Images/popupssattelite.png)
-
-
-## Launched Page
-
-https://alysnow.github.io/leaflet-challenge/index.html
 
 
 ## Contributor
